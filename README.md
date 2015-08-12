@@ -1,6 +1,6 @@
 ## Forked fork
 
-This fork of i3lock is based off of another fork by Lixxia. This forks adds a
+This fork of i3lock is based off of another fork by [Lixxia](https://github.com/Lixxia). This forks adds a
 feature that changes the color of the wheel to an inverse of the average color
 of the background picture being used. It can only be used if you specify a
 background image.

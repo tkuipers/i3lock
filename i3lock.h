@@ -9,5 +9,8 @@
     if (debug_mode) \
         printf("[i3lock-debug] " fmt, ##__VA_ARGS__); \
 } while (0)
+double RED;
+double GREEN;
+double BLUE;
 
 #endif

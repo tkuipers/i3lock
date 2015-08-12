@@ -1,3 +1,5 @@
+Forked an i3lock fork to add a feature that changes the color of the wheel to an inverse of the average color of the background picture being used.  Can only be used if you specify a background image.
+
 This is my own copy of i3lock, consisting of the following tweaks: 
 - Changed the display on key-strokes and escape/backspace.
 - Added 12-hour clock to the unlock indicator and periodic updater so time stays relevant. 

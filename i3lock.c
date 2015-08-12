@@ -683,7 +683,7 @@ int main(int argc, char *argv[]) {
 		{"help", no_argument, NULL, 'h'},
 		{"no-unlock-indicator", no_argument, NULL, 'u'},
 		{"image", required_argument, NULL, 'i'},
-		{"invert-wheel", no_argument, NULL, 'w'},
+		{"inverse-wheel", no_argument, NULL, 'w'},
 		{"tiling", no_argument, NULL, 't'},
 		{"ignore-empty-password", no_argument, NULL, 'e'},
 		{"inactivity-timeout", required_argument, NULL, 'I'},

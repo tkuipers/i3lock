@@ -1,11 +1,38 @@
-Forked an i3lock fork to add a feature that changes the color of the wheel to an inverse of the average color of the background picture being used.  Can only be used if you specify a background image.
+## Forked fork
+
+This fork of i3lock is based off of another fork by Lixxia. This forks adds a
+feature that changes the color of the wheel to an inverse of the average color
+of the background picture being used. It can only be used if you specify a
+background image.
+
+The feature can be used with the --inverse-wheel flag.
+  
+## Ubuntu Dependencies
+
+Here is a list of the dependencies specifically for Ubuntu (tested on Ubuntu 14.04).
+See also: the 'Requirements' list below.
+
+- libxcb-dpms0-dev
+
+- libxcb-xkb-dev
+
+- libev-dev
+
+- libxkbcommon-x11-dev
+
+- libxcb-image0-dev
+
+- libxkbcommon-dev
+
+- libxkbcommon0
+
+### Original fork
 
 This is my own copy of i3lock, consisting of the following tweaks: 
 - Changed the display on key-strokes and escape/backspace.
 - Added 12-hour clock to the unlock indicator and periodic updater so time stays relevant. 
-- Changed border, text and background colors.
-- Changed it so that the unlock indicator will always be displayed, regardless of state. (Originally it was only shown after initial keypress) 
-  
+- Changed border, text, and background colors.
+- Changed it so that the unlock indicator will always be displayed, regardless of state. (Originally it was only shown after initial keypress).
 
 ## Screenshots
 #### Default

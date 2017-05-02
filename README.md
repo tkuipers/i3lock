@@ -42,8 +42,8 @@ This is my own copy of i3lock, consisting of the following tweaks:
 ### Escape/Backspace
 ![On escape or backspace](/screenshots/lockscreenesc.png?raw=true "")
 
-<p>
 ---
+
 ### Original README
 
 i3lock - improved screen locker
